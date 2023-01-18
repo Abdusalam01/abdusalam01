@@ -16,10 +16,6 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abdusalam&show_icons=true&theme=tokyonight" />
 
 
-
-
-
-
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="40"/>
