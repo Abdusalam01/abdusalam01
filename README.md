@@ -12,7 +12,7 @@
 <!-- BLOG-POST-LIST:END -->
 # Hey there :wave:
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdusalam&layout=compact" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdusalam01&langs_count=8)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=abdusalam&show_icons=true&theme=tokyonight" />
 
 
