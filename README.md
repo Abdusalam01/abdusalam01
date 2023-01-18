@@ -13,7 +13,7 @@
 # Hey there :wave:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdusalam01&langs_count=8)
-<img align="left" width="%" src="https://github-readme-stats.vercel.app/api?username=abdusalam&show_icons=true&theme=tokyonight" /> <br>
+<img align="left" width="%" src="https://github-readme-stats.vercel.app/api?username=abdusalam01&show_icons=true&theme=tokyonight" /> <br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
